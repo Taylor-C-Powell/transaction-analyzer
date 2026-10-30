@@ -1,0 +1,23 @@
+{
+  "summaries": [
+    {
+      "accountId": "A100",
+      "totalCredits": 500,
+      "totalDebits": 200,
+      "endingBalance": 300,
+      "largestTransaction": 500,
+      "transactionCount": 2,
+      "overdrawn": false
+    },
+    {
+      "accountId": "B200",
+      "totalCredits": 20,
+      "totalDebits": 50,
+      "endingBalance": -30,
+      "largestTransaction": 50,
+      "transactionCount": 2,
+      "overdrawn": true
+    }
+  ],
+  "topSpender": "A100"
+}

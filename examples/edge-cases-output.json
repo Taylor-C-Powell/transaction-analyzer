@@ -1,0 +1,41 @@
+{
+  "summaries": [
+    {
+      "accountId": "A100",
+      "totalCredits": 0,
+      "totalDebits": 75.25,
+      "endingBalance": -75.25,
+      "largestTransaction": 75.25,
+      "transactionCount": 1,
+      "overdrawn": true
+    },
+    {
+      "accountId": "B200",
+      "totalCredits": 100,
+      "totalDebits": 75.25,
+      "endingBalance": 24.75,
+      "largestTransaction": 100,
+      "transactionCount": 2,
+      "overdrawn": false
+    },
+    {
+      "accountId": "C300",
+      "totalCredits": 0.3,
+      "totalDebits": 0.3,
+      "endingBalance": 0,
+      "largestTransaction": 0.3,
+      "transactionCount": 3,
+      "overdrawn": false
+    },
+    {
+      "accountId": "a100",
+      "totalCredits": 5,
+      "totalDebits": 0,
+      "endingBalance": 5,
+      "largestTransaction": 5,
+      "transactionCount": 1,
+      "overdrawn": false
+    }
+  ],
+  "topSpender": "A100"
+}
