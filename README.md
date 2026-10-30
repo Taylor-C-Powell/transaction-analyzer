@@ -8,7 +8,7 @@ Requires JDK 17 or newer. The Maven wrapper downloads everything else on first r
 
 ```bash
 git clone https://github.com/Taylor-C-Powell/transaction-analyzer.git
-cd transaction-analyzer-final
+cd transaction-analyzer
 ./mvnw test        # run the tests
 ./mvnw package     # run the tests, then build target/transaction-analyzer.jar
 java -jar target/transaction-analyzer.jar examples/example-input.json
