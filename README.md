@@ -7,7 +7,7 @@ Reads a list of financial transactions and returns, for each account, the total 
 Requires JDK 17 or newer. The Maven wrapper downloads everything else on first run.
 
 ```bash
-git clone https://github.com/Taylor-C-Powell/transaction-analyzer-final.git
+git clone https://github.com/Taylor-C-Powell/transaction-analyzer.git
 cd transaction-analyzer-final
 ./mvnw test        # run the tests
 ./mvnw package     # run the tests, then build target/transaction-analyzer.jar
